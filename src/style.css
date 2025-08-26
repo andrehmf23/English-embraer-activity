@@ -24,11 +24,11 @@ a:hover {
   color: #535bf2;
 }
 
-body {
+html, body {
   margin: 0;
-  display: flex;
+  padding: 0;
   width: 100%;
-  min-height: 100vh;
+  min-height: 100dvh; /* usa altura dinâmica real da tela */
   color: black;
 }
 
