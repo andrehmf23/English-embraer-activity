@@ -14,7 +14,7 @@ document.querySelector('#app').innerHTML = /*html*/`
   </div>
   <div id="pt" class="hidden flex-col gap-2">
     <div class="flex justify-center items-center h-[25rem] px-4">
-      <span class="text-2xl sm:text-3xl md:text-4xl font-bold text-white text-center">Aceleradora de negócios da Embraer</span>
+      <span class="text-3xl sm:text-4xl md:text-5xl font-bold text-white text-center">Aceleradora de negócios da Embraer</span>
     </div>
     <div class="flex flex-col pl-4 sm:pl-8 pt-6 pr-6">
       <span class="font-bold text-2xl sm:text-3xl">Investimentos</span>
@@ -36,8 +36,8 @@ document.querySelector('#app').innerHTML = /*html*/`
     </div>
   </div>
   <div id="en" class="flex flex-col gap-2">
-    <div class="flex w-full h-97 justify-center items-center">
-      <span class="text-4xl font-bold text-white">Embraer’s business accelerator</span>
+    <div class="flex justify-center items-center h-[25rem] px-4">
+      <span class="text-3xl sm:text-4xl md:text-5xl font-bold text-white text-center">Embraer’s business accelerator</span>
     </div>
     <div class="flex flex-col pl-4 sm:pl-8 pt-6 pr-6">
       <span class="font-bold text-2xl sm:text-3xl">Investments</span>
